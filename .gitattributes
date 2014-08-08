@@ -112,3 +112,4 @@
 /Sandbox/Reflection_Gmock/gmock-1.7.0/scripts/generator/README filter=lfs diff=lfs merge=lfs -text
 *.cppclean filter=lfs diff=lfs merge=lfs -text
 *.js filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text

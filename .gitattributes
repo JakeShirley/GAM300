@@ -114,3 +114,5 @@
 *.js filter=lfs diff=lfs merge=lfs -text
 *.mp3 filter=lfs diff=lfs merge=lfs -text
 *.pef filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
+/TimeMachine/Game/bin/test_object filter=lfs diff=lfs merge=lfs -text

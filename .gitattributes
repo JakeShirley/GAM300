@@ -119,3 +119,4 @@
 *.jgm filter=lfs diff=lfs merge=lfs -text
 *.jmat filter=lfs diff=lfs merge=lfs -text
 *.aif filter=lfs diff=lfs merge=lfs -text
+*.PNG filter=lfs diff=lfs merge=lfs -text

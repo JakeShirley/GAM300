@@ -123,3 +123,4 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.archetype filter=lfs diff=lfs merge=lfs -text
 *.lnk filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text

@@ -125,3 +125,4 @@
 *.lnk filter=lfs diff=lfs merge=lfs -text
 *.exe filter=lfs diff=lfs merge=lfs -text
 *.anim filter=lfs diff=lfs merge=lfs -text
+*.config filter=lfs diff=lfs merge=lfs -text

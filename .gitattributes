@@ -130,3 +130,5 @@
 *.trd filter=lfs diff=lfs merge=lfs -text
 *.iss filter=lfs diff=lfs merge=lfs -text
 *.docx filter=lfs diff=lfs merge=lfs -text
+*.vsf filter=lfs diff=lfs merge=lfs -text
+*.ini filter=lfs diff=lfs merge=lfs -text

@@ -139,3 +139,4 @@
 *.ion filter=lfs diff=lfs merge=lfs -text
 *.cxvh filter=lfs diff=lfs merge=lfs -text
 *.xlsx filter=lfs diff=lfs merge=lfs -text
+*.bank filter=lfs diff=lfs merge=lfs -text

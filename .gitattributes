@@ -330,3 +330,4 @@
 /TimeMachine/Game/bin/resource/materials/wizard_white filter=lfs diff=lfs merge=lfs -text
 /TimeMachine/Game/bin/resource/materials/yellow filter=lfs diff=lfs merge=lfs -text
 *.gif filter=lfs diff=lfs merge=lfs -text
+*.envc filter=lfs diff=lfs merge=lfs -text
